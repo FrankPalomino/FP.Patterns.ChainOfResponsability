@@ -5,7 +5,9 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.ChainOfResponsability.Exercice0", "FP.Patterns.ChainOfResponsability.Exercice0.csproj", "{E6DBCC05-B94A-460E-A39F-ABC08D2A0C17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FP.Patterns.ChainOfResponsability.Exercice1", "..\FP.Patterns.ChainOfResponsability.Exercice1\FP.Patterns.ChainOfResponsability.Exercice1.csproj", "{24953BFA-4C48-4850-AB84-4A31BD150135}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.ChainOfResponsability.Exercice1", "..\FP.Patterns.ChainOfResponsability.Exercice1\FP.Patterns.ChainOfResponsability.Exercice1.csproj", "{24953BFA-4C48-4850-AB84-4A31BD150135}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FP.Patterns.ChainOfResponsability.Exercice2", "..\FP.Patterns.ChainOfResponsability.Exercice2\FP.Patterns.ChainOfResponsability.Exercice2.csproj", "{A119392B-698E-4584-AE97-5F7B3EAFE4F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{24953BFA-4C48-4850-AB84-4A31BD150135}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24953BFA-4C48-4850-AB84-4A31BD150135}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24953BFA-4C48-4850-AB84-4A31BD150135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A119392B-698E-4584-AE97-5F7B3EAFE4F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A119392B-698E-4584-AE97-5F7B3EAFE4F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A119392B-698E-4584-AE97-5F7B3EAFE4F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A119392B-698E-4584-AE97-5F7B3EAFE4F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
