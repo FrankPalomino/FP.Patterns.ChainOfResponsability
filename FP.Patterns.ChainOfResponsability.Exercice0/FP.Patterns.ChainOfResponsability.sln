@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.ChainOfResponsa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.ChainOfResponsability.Exercice2", "..\FP.Patterns.ChainOfResponsability.Exercice2\FP.Patterns.ChainOfResponsability.Exercice2.csproj", "{A119392B-698E-4584-AE97-5F7B3EAFE4F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FP.Patterns.ChainOfResponsability.Exercice3", "..\FP.Patterns.ChainOfResponsability.Exercice3\FP.Patterns.ChainOfResponsability.Exercice3.csproj", "{4682AD26-A1E2-47A7-AEF6-466E40EF02D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.ChainOfResponsability.Exercice3", "..\FP.Patterns.ChainOfResponsability.Exercice3\FP.Patterns.ChainOfResponsability.Exercice3.csproj", "{4682AD26-A1E2-47A7-AEF6-466E40EF02D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FP.Patterns.ChainOfResponsability.Exercice4", "..\FP.Patterns.ChainOfResponsability.Exercice4\FP.Patterns.ChainOfResponsability.Exercice4.csproj", "{2943ED4F-0873-4FBE-96C3-D7FC1853BF1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{4682AD26-A1E2-47A7-AEF6-466E40EF02D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4682AD26-A1E2-47A7-AEF6-466E40EF02D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4682AD26-A1E2-47A7-AEF6-466E40EF02D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2943ED4F-0873-4FBE-96C3-D7FC1853BF1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2943ED4F-0873-4FBE-96C3-D7FC1853BF1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2943ED4F-0873-4FBE-96C3-D7FC1853BF1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2943ED4F-0873-4FBE-96C3-D7FC1853BF1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
